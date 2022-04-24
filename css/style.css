@@ -1,14 +1,14 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #1b161d;
-  background-color: #ffffff;
+  background-image: linear-gradient(-90deg, #0DCA83, #02BDDF);
 }
 
-.body-bg {
+/* .body-bg {
   background-image: url(../images/body-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
-}
+} */
 
 .layout_padding {
   padding: 75px 0;
