@@ -51,7 +51,7 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(-90deg, #0DCA83, #02BDDF);
+  /* background-image: linear-gradient(-90deg, #0DCA83, #02BDDF); */
   /* text-align: center; */
   /* clip-path: polygon(0 0, 100% 0, 100% 73%, 0% 100%); */
 }
