@@ -1,2 +1,3 @@
-# vendser_public_html
- Vendser Coming Soon Website
+# Vendser Public Website
+
+No additional information is required.
